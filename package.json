@@ -1,0 +1,14 @@
+{
+    "name": "teste",
+    "description": "",
+    "author": "Yuri",
+    "license": "MIT",
+    "version": "1.0.0",
+    "dependencies": {
+        "mongodb": "2.0.28",
+        "mqtt": "^2.18.4"
+    },
+    "devDependencies": {
+        "mosca": "^2.8.3"
+    }
+}
